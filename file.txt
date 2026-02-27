@@ -1,0 +1,145 @@
+hi
+
+================================================================
+RESOURCES USED BY SDEs AT TOP MNCs (Google, Meta, Amazon, Microsoft, Apple, etc.)
+================================================================
+
+------------------------------------------------------------
+1. DATA STRUCTURES & ALGORITHMS
+------------------------------------------------------------
+- LeetCode (Practice Problems)
+  https://leetcode.com
+
+- NeetCode 150 / NeetCode Roadmap
+  https://neetcode.io
+
+- GeeksforGeeks
+  https://www.geeksforgeeks.org
+
+- HackerRank
+  https://www.hackerrank.com
+
+- Codeforces (Competitive Programming)
+  https://codeforces.com
+
+- Blind 75 LeetCode Questions (classic list)
+  https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+
+- Interactive Coding Challenges (120+ Python problems with Anki flashcards)
+  GitHub: https://github.com/donnemartin/interactive-coding-challenges  (31k+ stars)
+
+- Awesome Competitive Programming (curated list of CP resources)
+  GitHub: https://github.com/lnishan/awesome-competitive-programming  (13k+ stars)
+
+------------------------------------------------------------
+2. SYSTEM DESIGN
+------------------------------------------------------------
+- The System Design Primer (Anki flashcards included)
+  GitHub: https://github.com/donnemartin/system-design-primer  (336k+ stars)
+
+- Awesome System Design Resources
+  GitHub: https://github.com/ashishps1/awesome-system-design-resources  (33k+ stars)
+
+- Awesome System Design (Distributed Systems)
+  GitHub: https://github.com/madd86/awesome-system-design  (11k+ stars)
+
+- Grokking the System Design Interview
+  https://www.designgurus.io/course/grokking-the-system-design-interview
+
+- ByteByteGo (System Design Newsletter & Book)
+  https://bytebytego.com
+
+- High Scalability Blog
+  http://highscalability.com
+
+------------------------------------------------------------
+3. CODING INTERVIEW PREPARATION
+------------------------------------------------------------
+- Tech Interview Handbook (end-to-end interview guide)
+  GitHub: https://github.com/yangshun/tech-interview-handbook  (137k+ stars)
+
+- Cracking the Coding Interview 6th Ed. Solutions
+  GitHub: https://github.com/careercup/CtCI-6th-Edition  (11k+ stars)
+
+- Grokking the Coding Interview: Patterns for Coding Questions
+  https://www.designgurus.io/course/grokking-the-coding-interview
+
+- Interviewing.io (mock interviews with FAANG engineers)
+  https://interviewing.io
+
+- Pramp (free peer mock interviews)
+  https://www.pramp.com
+
+------------------------------------------------------------
+4. CAREER ROADMAPS
+------------------------------------------------------------
+- Developer Roadmap (interactive career paths for all roles)
+  GitHub: https://github.com/kamranahmedse/developer-roadmap  (349k+ stars)
+  Website: https://roadmap.sh
+
+- OSSU – Open Source Society University (free CS curriculum)
+  GitHub: https://github.com/ossu/computer-science  (170k+ stars)
+
+------------------------------------------------------------
+5. FREE BOOKS & LEARNING RESOURCES
+------------------------------------------------------------
+- Free Programming Books
+  GitHub: https://github.com/EbookFoundation/free-programming-books  (383k+ stars)
+
+- The Pragmatic Programmer (book)
+  https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/
+
+- Clean Code by Robert C. Martin (book)
+  https://www.oreilly.com/library/view/clean-code-a/9780136083238/
+
+- Designing Data-Intensive Applications by Martin Kleppmann (book)
+  https://dataintensive.net
+
+- Introduction to Algorithms (CLRS) – MIT Press (book)
+  https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/
+
+------------------------------------------------------------
+6. ENGINEERING BLOGS FROM TOP MNCs
+------------------------------------------------------------
+- Google Engineering Blog       https://developers.googleblog.com
+- Meta Engineering Blog         https://engineering.fb.com
+- Amazon (AWS) Blog             https://aws.amazon.com/blogs/aws/
+- Microsoft Tech Blog           https://devblogs.microsoft.com
+- Apple Machine Learning Blog   https://machinelearning.apple.com/research
+- Netflix Tech Blog             https://netflixtechblog.com
+- Uber Engineering Blog         https://www.uber.com/blog/engineering/
+- Airbnb Engineering Blog       https://medium.com/airbnb-engineering
+- LinkedIn Engineering Blog     https://engineering.linkedin.com/blog
+- Twitter/X Engineering Blog    https://blog.x.com/engineering/en_us
+
+------------------------------------------------------------
+7. CS FUNDAMENTALS & ONLINE COURSES
+------------------------------------------------------------
+- MIT OpenCourseWare (Algorithms, OS, Distributed Systems)
+  https://ocw.mit.edu
+
+- CS50 by Harvard (Introduction to Computer Science)
+  https://cs50.harvard.edu
+
+- Coursera – Algorithms Specialization (Stanford, Tim Roughgarden)
+  https://www.coursera.org/specializations/algorithms
+
+- Coursera – Data Structures and Algorithms Specialization (UC San Diego)
+  https://www.coursera.org/specializations/data-structures-algorithms
+
+- MIT 6.824 Distributed Systems
+  https://pdos.csail.mit.edu/6.824/
+
+------------------------------------------------------------
+8. TOOLS & UTILITIES USED DAILY BY SDEs
+------------------------------------------------------------
+- Git & GitHub                  https://github.com
+- VS Code                       https://code.visualstudio.com
+- Postman (API testing)         https://www.postman.com
+- Docker                        https://www.docker.com
+- Kubernetes                    https://kubernetes.io
+- Grafana (monitoring)          https://grafana.com
+- Jira (project tracking)       https://www.atlassian.com/software/jira
+- Confluence (documentation)    https://www.atlassian.com/software/confluence
+
+================================================================
